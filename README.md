@@ -31,11 +31,11 @@ kinda obsessive about everything i build
 <p align="center"><sub>▶ <a href="https://github.com/user-attachments/assets/ca34406c-c111-4bfc-992c-5886b480b1a3">the way of the ronin soundtrack</a> - tap to play with sound</sub></p>
 <p align="center">
 <sub>four paths, four kinds of work - every merged pull request lives here.<br>
-<b>151 merged prs</b> and counting; the quest renews itself with each new merge.</sub><br><br>
+<b>152 merged prs</b> and counting; the quest renews itself with each new merge.</sub><br><br>
 <a href="#user-content-xp-mind"><b>心 the way of the mind</b> · 23</a> &nbsp;·&nbsp;
 <a href="#user-content-xp-blade"><b>刃 the way of the blade</b> · 9</a> &nbsp;·&nbsp;
 <a href="#user-content-xp-chain"><b>鎖 the way of the chain</b> · 79</a> &nbsp;·&nbsp;
-<a href="#user-content-xp-scroll"><b>巻 the way of the scroll</b> · 40</a><br>
+<a href="#user-content-xp-scroll"><b>巻 the way of the scroll</b> · 41</a><br>
 </p>
 </details>
 
@@ -227,7 +227,7 @@ kinda obsessive about everything i build
 </details>
 
 <details name="xp">
-<summary><b>巻 the way of the scroll</b> - the formstr suite, shipped · <b>40 merged prs</b></summary>
+<summary><b>巻 the way of the scroll</b> - the formstr suite, shipped · <b>41 merged prs</b></summary>
 <a id="xp-scroll"></a>
 <p align="center"><img src="assets/xp_scroll.gif" width="560"></p>
 <p align="center"><b>formstr, aossie &amp; community</b></p>
@@ -268,12 +268,13 @@ kinda obsessive about everything i build
 <sub><a href="https://github.com/formstr-hq/nostr-polls/pull/169"><b>#169</b></a> Currently we can't click on the post author's name to navigate to profile only clicking on picture works @abh3po this adds that · apr 18, 2026</sub><br>
 <sub><a href="https://github.com/formstr-hq/nostr-polls/pull/166"><b>#166</b></a> @abh3po @geralt-debugs the favicon url was not pointing to the correct asset Before: After · apr 12, 2026</sub><br>
 <br>
+<sub><b>AOSSIE-Org/Info</b> · 2 merged</sub><br>
+<sub><a href="https://github.com/AOSSIE-Org/Info/pull/80"><b>#80</b></a> Adds a gsoc-final-report skill under Programs/GoogleSummerOfCode/Skills/ · nov 11, 2026</sub><br>
+<sub><a href="https://github.com/AOSSIE-Org/Info/pull/70"><b>#70</b></a> [![Review Change Stack]( · may 14, 2026</sub><br>
+<br>
 <sub><b>AOSSIE-Org/SocialShareButton</b> · 2 merged</sub><br>
 <sub><a href="https://github.com/AOSSIE-Org/SocialShareButton/pull/131"><b>#131</b></a> Addressed Issues: This PR introduces an automated workflow that labels pull requests with merge conflicts using eps1lon/actions-label-merge-conflict · mar 25, 2026</sub><br>
 <sub><a href="https://github.com/AOSSIE-Org/SocialShareButton/pull/117"><b>#117</b></a> Check one of the checkboxes below: This PR does not contain AI-generated code at all · mar 22, 2026</sub><br>
-<br>
-<sub><b>AOSSIE-Org/Info</b> · 1 merged</sub><br>
-<sub><a href="https://github.com/AOSSIE-Org/Info/pull/70"><b>#70</b></a> [![Review Change Stack]( · may 14, 2026</sub><br>
 <br>
 <sub><b>AOSSIE-Org/Template-Repo</b> · 1 merged</sub><br>
 <sub><a href="https://github.com/AOSSIE-Org/Template-Repo/pull/106"><b>#106</b></a> We encourage contributors to use AI tools responsibly when creating Pull Requests · may 15, 2026</sub><br>
